@@ -25,6 +25,6 @@ I'm constantly learning and honing my skills to build **seamless, responsive, an
 ## 📫 Let's Connect!  
 - 🌐 [Portfolio Website](https://vivi0814.github.io/vivian-project.github.io/)  
 - ✉️ Email: [vivian91949@gmail.com](mailto:vivian91949@gmail.com)  
-- 💼 LinkedIn: [linkedin-profile](#)
+- 💼 LinkedIn: [linkedin-profile](https://www.linkedin.com/in/shiau-ju-tseng-66416b218/)
 
 Thank you for stopping by! Feel free to explore my repositories and get in touch if you'd like to collaborate. 🚀✨
