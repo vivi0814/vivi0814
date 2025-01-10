@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Vivian Tseng.
-🌱 I’m a Frontend Engineer.
+-🌱 I’m a Frontend Engineer.
 ---
 
 ## 🛠️ Skills & Tools  
