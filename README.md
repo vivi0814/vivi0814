@@ -1,14 +1,5 @@
-# 🌟 Welcome to My GitHub! 👩‍💻
-Hi there! I'm a dedicated **Front-End Developer** passionate about creating **engaging and user-friendly web applications**.  
-I'm constantly learning and honing my skills to build **seamless, responsive, and visually stunning websites** that enhance user experiences.  
-
----
-
-## 🚀 About Me  
-- 💡 Focused on **front-end development** with expertise in **modern web technologies**.  
-- 🌱 Always eager to learn and explore the latest tools and frameworks in web development.  
-- 🎯 Committed to delivering websites that are not only functional but also delightful to use.  
-
+## 👋 Hi, I'm Vivian Tseng.
+- 🌱 I’m a Frontend Engineer.
 ---
 
 ## 🛠️ Skills & Tools  
@@ -22,7 +13,7 @@ I'm constantly learning and honing my skills to build **seamless, responsive, an
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 Connect Me!  
 - 🌐 [Portfolio Website](https://vivi0814.github.io/vivian-project.github.io/)  
 - ✉️ Email: [vivian91949@gmail.com](mailto:vivian91949@gmail.com)  
 - 💼 LinkedIn: [linkedin-profile](https://www.linkedin.com/in/shiau-ju-tseng-66416b218/)
